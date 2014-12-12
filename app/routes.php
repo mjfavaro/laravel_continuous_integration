@@ -2,6 +2,7 @@
 
 Route::get('/', function()
 {
-    return 'Olá Travis';
+    return 'Olá Team City';
+    //return 'Olá Travis';
 	//return View::make('hello');
 });
